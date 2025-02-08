@@ -12,7 +12,7 @@ class Myapp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(debugShowCheckedModeBanner: false,
         home: Scaffold(
-          appBar: AppBar(title: const Text("Mahbub"),),
+          appBar: AppBar(title: const Text("Title"),),
           body: Column(
             crossAxisAlignment: CrossAxisAlignment.center,
             children:[
